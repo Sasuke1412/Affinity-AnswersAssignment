@@ -1,0 +1,20 @@
+.cart-list {
+  padding-left: 0px;
+}
+.cart-list-view{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.redirect-to-checkout{
+  align-self: flex-end;
+}
+.redirect-to-checkout-button-design{
+  color: #ffffff;
+  background-color: #0967d2;
+  border: none;
+  border-radius: 4px;
+  padding: 8px;
+  cursor: pointer;
+}

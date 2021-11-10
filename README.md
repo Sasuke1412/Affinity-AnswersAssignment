@@ -15,7 +15,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 username:rahul
 password:rahul@2021
 
-###Impleneted Following Functionalities
+###`Impleneted Following Functionalities`
+
 1.Login Functionality
 2.Token Based authorization 
 3.Fecth Prodcuts List based on filters from SearchInput,Price-Sorting,Categoriesand Rating.
